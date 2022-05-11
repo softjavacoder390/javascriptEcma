@@ -1,0 +1,39 @@
+
+nodejs instructions
+1. for open cmd
+file menu -> preferences->file icon themse
+
+step 2 
+ctrl+shift +p
+
+
+===============================================================================
+Pre- Training Udemy Course Link:
+
+https://synechron.udemy.com/course/modern-javascript-from-the-beginning/
+
+Post- Training Udemy Course Link:
+
+https://synechron.udemy.com/course/the-complete-javascript-course/
+
+===========================
+manish sharma is trainner
+
+https://kangax.github.io/compat-table/es6/
+
+https://1drv.ms/u/s!Ao-ceLq5rZm3hrMOKw-rJ9t88MqkfA?e=qRCfTA
+
+
+https://onedrive.live.com/?authkey=%21ACsPqyfbfPDKpHw&id=B799ADB9BA789C8F%21104846&cid=B799ADB9BA789C8F
+
+
+https://codepen.io/manishvbn/pen/mEKvxY
+
+https://kangax.github.io/compat-table/es6/
+
+
+https://synechron.zoom.us/j/91045771297
+
+https://jsonplaceholder.typicode.com/posts
+
+====================================================================================
